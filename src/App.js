@@ -7,7 +7,7 @@ function App() {
             <header className="App-header">
                 <h1>CSV Data Fetch Example</h1>
 
-                {/* <FetchCSVData /> */}
+                <FetchCSVData />
             </header>
         </div>
     );
